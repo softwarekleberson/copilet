@@ -10,17 +10,6 @@ Este projeto tem como objetivo realizar a **extração e análise de textos pres
 
 ### 🔧 Etapa 1: Preparação do Ambiente
 
-![Print do ambiente configurado](./prints/configuracao-ambiente.png)
-
-O projeto começou com a preparação do ambiente de desenvolvimento. Foi necessário instalar as dependências da biblioteca OCR, configurar os scripts de leitura e preparar o pipeline de upload de imagens. As principais ferramentas utilizadas nesta etapa foram:
-
-- [ ] VS Code
-- [ ] Node.js / Python
-- [ ] Tesseract OCR
-- [ ] Git e GitHub para versionamento
-
----
-
 ### 📷 Etapa 2: Upload e Pré-processamento de Imagens
 
 ![Print do upload de imagem](./prints/upload-imagem.png)
