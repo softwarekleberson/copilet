@@ -1,4 +1,4 @@
-# 🧠 Projeto: Análise de Texto em Imagens com OCR
+# 🧠 Projeto: Análise de Texto em Imagens 
 
 ## 📌 Descrição do Projeto
 
@@ -19,9 +19,6 @@ A aplicação permite que o usuário faça o upload de imagens contendo textos. 
 - Conversão para escala de cinza
 - Ajuste de contraste e nitidez
 - Redimensionamento e remoção de ruído
-
-Esses ajustes são essenciais para garantir que o OCR consiga identificar corretamente os caracteres presentes na imagem.
-
 ---
 
 ### 🧪 Etapa 3: Extração e Análise de Texto
@@ -37,19 +34,6 @@ Com a imagem processada, O resultado é exibido em tempo real no sistema. Após 
 
 Essas informações podem ser usadas em diversos contextos analíticos ou integradas a bancos de dados.
 
----
-
-## 💡 Insights Aprendidos
-
-Durante o projeto, tive aprendizados valiosos:
-
-- **A qualidade da imagem influencia diretamente a eficiência do OCR**
-- **Pré-processamento é mais importante do que parece**, pois imagens "limpas" trazem resultados muito mais precisos
-- **Tesseract é uma ferramenta poderosa, mas requer ajustes finos nos parâmetros**
-- Identifiquei que há **limitações com fontes manuscritas ou imagens muito distorcidas**
-- Aprendi a **automatizar a leitura de múltiplas imagens**, tornando o processo escalável
-
----
 
 ## 🚀 Possibilidades Futuras
 
